@@ -1,9 +1,13 @@
-# Treinamentos
+# DataScience
 
 <p> Utilizo este repositorio para armazenar exemplos e projetos desenvolvidos em treinamentos que realizei como aluno. </p>
 <p> Aqui não estão todos treinamento/cursos que já realizei, mas sim alguns que mantenho como material de consulta. </p>
+<img src='https://insightlab.ufc.br/wp-content/uploads/2020/01/datascience-1.png' />
 
-## Data Science
+<p>Sempre trabalhei com informação, gerando relatorios, tentando fazer previsões de indicadores e tomando decisões com base na analise dados, depois que me tornei um analista de business intelligence me interessei por assuntos avançados envolvendo dados, assim iniciei meus estudo com objetivo de tornar um cientista de dados.</p>
+
+
+## Cursos
 
 <ul>
     <li>Pandas: Formatos diferentes de entrada e saída (IO)</li>
